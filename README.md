@@ -11,12 +11,12 @@
 > ##### Not: kurulumdan tamamlandıktan sonra (Bunun için tarayıcınızı yeniden başlatmanız gerekebilir), user scripti indirebilirsiniz.
 
 #### Step 2: UserScript 
-[download](https://github.com/srdwly/LordPanquesito/raw/master/minimap.user.js)
+[download](https://github.com/LordPanquesito/llpixel/raw/master/minimap.user.js)
 
 Linke tıkladıktan sonra açılan pencereden install denilir ve tamamlanır. 
 
 ### Update
-[Check for updates](https://github.com/srdwly/LordPanquesito/raw/master/minimap.user.js)
+[Check for updates](https://github.com/LordPanquesito/llpixel/raw/master/minimap.user.js)
 
 Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update edilir.
 
