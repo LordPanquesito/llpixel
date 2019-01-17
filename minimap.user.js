@@ -17,7 +17,7 @@
 //https://raw.githubusercontent.com/user/repository/branch/filename
 //https://raw.githubusercontent.com/srdwly/llpixel/master/README.md
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/srdwly/llpixel/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/LordPanquesito/llpixel/master';
 
 cssStyle = `
 #minimapbg {
